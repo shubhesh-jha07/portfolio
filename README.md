@@ -1,4 +1,4 @@
 # GITHUB
 This is my first Repository
 <br>
-Owner - Shubhesh Jha
+Author - Shubhesh Jha 
